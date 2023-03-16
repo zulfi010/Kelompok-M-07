@@ -79,7 +79,7 @@ header h1 {
   height: auto;
   height: 500px;
   padding-top: 180px;
-  background-image: url("src/images/darker-cover.png");
+  background-image: url("images/darker-cover.png");
   background-size: cover;
 }
 .heading {
